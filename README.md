@@ -20,3 +20,21 @@ Blockchain & Web3: Solidity, Ethereum, Polygon, Smart Contracts
 AI & ML: TensorFlow, OpenAI API, LangChain
 Database: PostgreSQL, Firebase, MongoDB
 Live Streaming: WebRTC, Agora, MUX API
+🚀 Getting Started
+Clone the repo and install dependencies:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/streams-sell24.git
+cd streams-sell24
+npm install
+Run the development server:
+
+bash
+Copy
+Edit
+npm run dev
+🔗 Links
+Website: [Coming Soon]
+Live Demo: [Coming Soon]
